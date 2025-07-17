@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-- 🌱 I’m currently learning laravel 12
+- 🌱 Actualmente estoy desarrollando proyectos en Laravel 12
